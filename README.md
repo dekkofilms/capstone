@@ -9,3 +9,5 @@ Firebase or Node Server w/ PSQL
 Plaid API (hopefully)
 ...these are the main three components to get up and running
 
+# Basic Wireframe Concept: (NOT final)
+
